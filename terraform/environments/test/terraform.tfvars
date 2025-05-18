@@ -1,13 +1,13 @@
 # Azure subscription vars
-subscription_id = "" # Put value for specific to your account
-client_secret = "" # Put value for specific to your account
-client_id = "" # Put value for specific to your account
-tenant_id = "" # Put value for specific to your account
+subscription_id = "6e375b9d-ad4b-4945-b141-04c0f4b89b97"
+client_secret = "CLd8Q~YXB8ZUC3UDuv_Hq2jSOsKdRNslCk6gbbs."
+client_id = "dce7d036-c96a-4182-8788-74529712da69"
+tenant_id = "f958e84a-92b8-439f-a62d-4f45996b6d07"
 
 # Resource Group/Location
 location = "West Europe"
 resource_group = "Azuredevops"
-application_type = "" # Give an application name here
+application_type = "sk" # Give an application name here
 
 # Network
 virtual_network_name = "skNet"
